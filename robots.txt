@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ophaikeizu.art.cool/sitemap.xml
